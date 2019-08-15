@@ -1,2 +1,2 @@
 # Hello-world
-a simple repository
+一个菜鸟的进击之路
